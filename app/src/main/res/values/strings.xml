@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Currency Rates</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Converter</string>
+    <string name="title_notifications">About</string>
+
+    <string-array name = "all_currency_name">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>AUD</item>
+        <item>CNY</item>
+        <item>NZD</item>
+<!--        Indonesian Rupiah-->
+        <item>IDR</item>
+
+<!--        Lao Kip-->
+        <item>LAK</item>
+
+<!--        Cambodian riel-->
+        <item>KHR</item>
+
+<!--        Brunei Dollar-->
+        <item>BND</item>
+
+<!--        Indian Rupee-->
+        <item>INR</item>
+
+<!--        Swiss Franc-->
+        <item>CHF</item>
+
+<!--        Russian Ruble-->
+        <item>RUB</item>
+
+<!--        Sri Lankan Rupee-->
+        <item>LKR</item>
+
+        <!--        Bangladeshi Taka-->
+        <item>BDT</item>
+
+<!--        Pakistan Rupee-->
+        <item>PKR</item>
+
+<!--        Nepal Rupee-->
+        <item>NPR</item>
+
+<!--        Danish Krone-->
+        <item>DKK</item>
+
+<!--        Egyptian Pound-->
+        <item>EGP</item>
+
+<!--        Saudi Riyal-->
+        <item>SAR</item>
+
+<!--        Kuwaiti Dinar-->
+        <item>KWD</item>
+
+<!--        Kenyan Shilling-->
+        <item>KES</item>
+
+<!--        South Africa Rand-->
+        <item>ZAR</item>
+    </string-array>
+
+    <string-array name="asean_currency_name">
+        <item>SGD</item>
+        <item>THB</item>
+        <item>LAK</item>
+        <item>KHR</item>
+        <item>BND</item>
+    </string-array>
+
+    <string-array name="currency_name">
+        <item>USD</item>
+        <item>SGD</item>
+        <item>EUR</item>
+        <item>THB</item>
+        <item>AUD</item>
+        <item>CNY</item>
+    </string-array>
+</resources>
